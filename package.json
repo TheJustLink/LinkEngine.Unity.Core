@@ -1,0 +1,25 @@
+{
+  "name": "com.devlinkgames.linkengine.core",
+  "version": "0.0.2",
+  "displayName": "LinkEngine Core",
+  "description": "Unity package with LinkEngine.Unity.Core compiled libraries for LinkEngine support in Unity",
+  "unity": "2021.3",
+  "documentationUrl": "https://github.com/TheJustLink/LinkEngine.Unity.Core",
+  "changelogUrl": "https://github.com/TheJustLink/LinkEngine.Unity.Core/commits/main",
+  "licensesUrl": "https://raw.githubusercontent.com/TheJustLink/LinkEngine.Unity.Core/main/LICENSE?token=GHSAT0AAAAAABPZF4ZDBRQ75JZDEXIB2EEOY6GO7AA",
+ "keywords": [
+    "engine",
+    "link",
+    "wrapper",
+	"devlinkgames",
+	"sdk",
+	"core",
+	"compiled",
+	"libraries"
+  ],
+  "author": {
+    "name": "Link",
+    "email": "devlinkgames@gmail.com",
+    "url": "https://github.com/TheJustLink"
+  }
+}
